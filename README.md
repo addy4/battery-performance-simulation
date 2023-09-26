@@ -1,1 +1,1 @@
-"# battery-performance-simulation" 
+# battery-performance-simulation
